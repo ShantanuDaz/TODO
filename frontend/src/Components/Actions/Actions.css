@@ -1,0 +1,11 @@
+#actions {
+  flex: 1;
+  padding: 5px;
+}
+
+#actions > form > h3 {
+  text-align: center;
+}
+#actions > form > div {
+  display: grid;
+}
